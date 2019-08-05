@@ -15208,3 +15208,4 @@ Christian Reyes
 - [Josh Carroll](https://github.com/joshc133)
 - [Henish Patel](https://github.com/henishpatel)
 - [Remie Malik] (https://github.com/remiemalik)
+- [Giovanni Manfredi] (https://github.com/Grozky)
